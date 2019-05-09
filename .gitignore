@@ -1,0 +1,7 @@
+/.Spotlight-V100
+/.Trashes
+/.fseventsd
+/EFI/CLOVER/misc/*
+!EFI/CLOVER/misc/.gitkeep
+.DS_Store
+._.DS_Store
